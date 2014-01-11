@@ -4,6 +4,12 @@ import org.codehaus.jackson.map.ObjectMapper;
 
 import android.app.Activity;
 
+/**
+ * @author xiangxm
+ *
+ *
+ *
+ */
 public  class BaseDao {
 	ObjectMapper mObjectMapper = new ObjectMapper();
 
